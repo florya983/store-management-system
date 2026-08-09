@@ -1,10 +1,13 @@
-Store Management System
+
+STORE MANAGEMENT SYSTEM 
+
 
 A store management system made with Go.
 
 This project allows you to manage products, stock, sales, and prices.
 
-Features
+
+FEATURES
 
 Add products
 
