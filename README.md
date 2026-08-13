@@ -15,9 +15,9 @@ Delete products
 
 Modify products
 
-List products
+List inventory
 
-Sell products
+Process sales
 
 Count products by category
 
@@ -25,4 +25,4 @@ Find the best-selling product
 
 Calculate total sales
 
-Calculate total money from sales
+Calculate total revenue
